@@ -46,8 +46,8 @@ Hosted on vultr.com with pure Ubuntu 18.04 and Docker
 
 #### A note on symbolic links
 
-- `ln -s /var/lib/docker/volumes/miptone-docker_static_volume /home/docker/mipt.one-docker`
-- `ln -s /var/lib/docker/volumes/miptone-docker_media_volume /home/docker/mipt.one-docker`
+- `ln -s /var/lib/docker/volumes/astetique_static_volume /home/docker/astetique`
+- `ln -s /var/lib/docker/volumes/astetique_media_volume /home/docker/astetique`
 
 #### Hard reset (don't do it)
 
